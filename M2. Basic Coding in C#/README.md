@@ -38,4 +38,4 @@
 2. Implement a recursive algorithm for searching the maximum element in unsorted array.
 3. Given an array of integers. Find and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (or -1).
 4. Two strings include only characters from 'a' to 'z', return a concatenated alphabetized string, excluding duplicate characters.
-5. Write a method FilterLucky that accepts a list of integers and filters the list to only include the elements that contain the digit 7. For example,  FilterLucky(1,2,3,4,5,6,7,68,69,70,15,17) --> { 7, 70, 17 }.
+5. Write a method FilterLucky that accepts a list of integers and filters the list to only include the elements that contain the digit 7. For example,  FilterLucky(7,1,2,3,4,5,6,7,68,69,70,15,17) --> { 7, 70, 17 }.
